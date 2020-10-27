@@ -9,7 +9,6 @@
 ### Tech
 
 * [TCL] - HTML enhanced for web apps!
-* [Ace Editor] - awesome web-based text editor
 
 
 ### Development
@@ -37,5 +36,4 @@ MIT
 **Free Software, Hell Yeah!**
 
    [TCL]: <https://www.tcl.tk/>
-   [node.js]: <http://nodejs.org>
 
